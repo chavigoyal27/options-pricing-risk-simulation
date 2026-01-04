@@ -72,8 +72,8 @@ options-pricing-risk-simulation/
 │ ├── greeks.py
 │ ├── monte_carlo.py
 │ └── validation.py
-
 '''
+
 ---
 
 ## 📈 Methodology
