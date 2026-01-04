@@ -58,7 +58,7 @@ The focus of this project is to understand **option pricing mechanics, uncertain
 ---
 
 ## 📂 Project Structure
-'''
+```
 options-pricing-risk-simulation/
 │
 ├── main.py
@@ -72,7 +72,7 @@ options-pricing-risk-simulation/
 │ ├── greeks.py
 │ ├── monte_carlo.py
 │ └── validation.py
-'''
+```
 
 ---
 
